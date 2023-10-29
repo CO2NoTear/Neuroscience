@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyReports/23-41st/Sun..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc9a93910d146aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyReports/23-42nd/Tue..md",
+                "file": "DailyReports/23-43rd/Sun..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyReports/23-42nd/Tue..md",
+                "file": "DailyReports/23-43rd/Sun..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyReports/23-42nd/Tue..md",
+                "file": "DailyReports/23-43rd/Sun..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyReports/23-42nd/Tue..md"
+                "file": "DailyReports/23-43rd/Sun..md"
               }
             }
           },
@@ -169,16 +156,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc9a93910d146aa7",
+  "active": "26a1dc14055f9998",
   "lastOpenFiles": [
+    "DailyReports/23-43rd/Thu..md",
+    "DailyReports/23-43rd/Wed..md",
+    "DailyReports/23-43rd/Tue..md",
+    "DailyReports/23-43rd/Mon..md",
+    "DailyReports/23-43rd/Sun..md",
+    "DailyReports/23-42nd/Fri..md",
+    "DailyReports/23-42nd/Weekly Report.md",
+    "DailyReports/23-42nd/Thu..md",
+    "DailyReports/23-42nd/Wed..md",
+    "DailyReports/23-42nd/Tue..md",
+    "DailyReports/23-42nd/Mon..md",
+    "DailyReports/23-42nd/Sat..md",
+    "DailyReports/23-42nd/Sun..md",
+    "DailyReports/23-43rd",
     "DailyReports/23-41st/Tue..md",
     "DailyReports/23-41st/Wed..md",
-    "DailyReports/23-41st/Thu..md",
     "DailyReports/23-41st/Sun..md",
-    "DailyReports/23-42nd/Mon..md",
-    "DailyReports/23-42nd/Tue..md",
-    "DailyReports/23-42nd",
+    "DailyReports/23-41st/Thu..md",
     "DailyReports/template.md",
+    "DailyReports/23-42nd",
     "DailyReports/23-41st/Wednesday.md",
     "DailyReports/23-41周/星期三.md",
     "DailyReports/23-41st",
@@ -195,11 +194,7 @@
     "Resources/Small-world.png",
     "Resources",
     "Notes/Drawing triangle.md",
-    "README.md",
-    "Notes/Shader.md",
-    "Diary/2023-09-07.md",
     "Notes",
-    "Diary",
     "未命名.canvas"
   ]
 }
